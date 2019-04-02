@@ -11,3 +11,4 @@ list.stream()
       .map((@Notnull var s) -> s.toLowerCase())
       .collect(Collectors.toList());
 ```
+----
